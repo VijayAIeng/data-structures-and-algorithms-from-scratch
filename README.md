@@ -8,7 +8,7 @@ I will implement important data structures and algorithms from scratch, study th
 
 The goal is to build a strong foundation in algorithmic thinking and develop the ability to reason about performance, scalability, memory usage, and computational tradeoffs.
 
----  
+---   
     
 # Why Data Structures and Algorithms?
 
