@@ -14,7 +14,7 @@ The goal is to build a strong foundation in algorithmic thinking and develop the
 
 Software systems constantly need to store, access, search, transform, organize, and process data.
 
-The choice of data structure and algorithm can directly affect:
+The choice of data structure and algorithm can directly affect: 
 
 ```text
 Performance
