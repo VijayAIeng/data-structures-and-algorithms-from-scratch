@@ -10,7 +10,7 @@ The goal is to build a strong foundation in algorithmic thinking and develop the
 
 ---   
     
-# Why Data Structures and Algorithms?
+# Why Data Structures and Algorithms? 
 
 Software systems constantly need to store, access, search, transform, organize, and process data.
 
